@@ -30,8 +30,7 @@
     ],
     "rules": {
       "semi": ["error", "never"],
-      "comma-dangle": ["error", "always-multiline"],
-      "indent": ["error", 4]
+      "comma-dangle": ["error", "only-multiline"]
     }
   },
   "browserslist": {
